@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\bin\Debug\net6.0\turma16psf.exe
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\bin\Debug\net6.0\turma16psf.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\bin\Debug\net6.0\turma16psf.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\bin\Debug\net6.0\turma16psf.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\bin\Debug\net6.0\turma16psf.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\refint\turma16psf.dll
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\turma16psf.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\turma16psf\obj\Debug\net6.0\ref\turma16psf.dll
